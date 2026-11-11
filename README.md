@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Sweden, covering official tourism portals, rail networks, regional guides, national parks, and the Right of Public Access.
 
+Sweden is a pristine Nordic destination featuring dense pine forests, thousands of coastal islands, Arctic Lapland wilderness, and the constitutional Right of Public Access. This list is intended for outdoor explorers, wild campers, alpine hikers, and nature conservationists.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
